@@ -6,9 +6,5 @@ import Resume from './components/Resume.vue';
 
 <template>
  <Resume/>
-
 </template>
 
-<style scoped>
-
-</style>
